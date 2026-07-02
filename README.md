@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Jul 2, 2026, 12_43_06 PM" src="https://github.com/user-attachments/assets/82bcb2a1-9f17-4577-a4b8-74a5b889f7c2" />
+
 # Image Annotation Tool
 
 A lightweight Python-based image annotation tool for creating image classification datasets from high-resolution images.
@@ -21,7 +23,6 @@ The tool allows users to manually select regions of interest (ROIs) from images,
 - Perfect for building image classification datasets
 
 ---
-<img width="1536" height="1024" alt="ChatGPT Image Jul 2, 2026, 12_43_06 PM" src="https://github.com/user-attachments/assets/82bcb2a1-9f17-4577-a4b8-74a5b889f7c2" />
 
 ## Example Workflow
 
