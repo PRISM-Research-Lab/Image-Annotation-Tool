@@ -1,12 +1,10 @@
-# Image-Annotation-Tool
-A lightweight Python/OpenCV annotation tool for creating image classification datasets from high-resolution images. Supports manual ROI selection, custom labels, automatic dataset organization, and fixed-size crop generation for deep learning.
+# Image Annotation Tool
 
+A lightweight Python-based image annotation tool for creating image classification datasets from high-resolution images.
 
-# 🍅 Tomato Image Annotation Tool
+This tool was originally developed for agricultural AI projects using tomato plant RGB images, but it can be used to create classification datasets for virtually any type of image, including plants, fruits, leaves, medical images, industrial inspection, wildlife, and general computer vision applications.
 
-A lightweight Python-based image annotation tool for creating image classification datasets from high-resolution tomato plant images.
-
-This tool was developed for agricultural AI projects and educational research. It allows users to manually crop regions of interest (ROIs) from RGB images and automatically organize them into labeled folders for deep learning model training.
+The tool allows users to manually select regions of interest (ROIs) from images, assign custom class labels, and automatically organize cropped images into labeled folders. All crops are saved at a fixed size, making the generated dataset ready for training deep learning and machine learning models.
 
 ---
 
