@@ -67,18 +67,6 @@ During installation, make sure to check:
 
 ---
 
-## Step 2. Clone Repository
-
-```bash
-git clone https://github.com/yourusername/TomatoImageAnnotationTool.git
-
-cd TomatoImageAnnotationTool
-```
-
-or simply download the ZIP file and extract it.
-
----
-
 ## Step 3. Install Dependencies
 
 Open Command Prompt or PowerShell and run
@@ -114,9 +102,9 @@ Open **ImageAnnotationTool.py**
 Modify
 
 ```python
-INPUT_IMAGE_FOLDER = "path_to_your_images"
+INPUT_IMAGE_FOLDER = "C:/Users/khossain/Downloads/June_17_26/"
 
-OUTPUT_DATASET_FOLDER = "path_to_save_dataset"
+OUTPUT_DATASET_FOLDER = "C:/Users/khossain/Downloads/label_images/"
 ```
 
 Example
