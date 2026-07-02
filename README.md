@@ -278,15 +278,18 @@ python -m pip install opencv-python
 
 # Example Applications
 
-This tool can be used for creating datasets for
+Although originally developed for agricultural AI research, this tool can be used to create image classification datasets for many applications, including:
 
 - Plant disease classification
 - Drought stress detection
-- Nutrient deficiency classification
-- Pest damage detection
-- Leaf image datasets
-- Greenhouse monitoring
-- General image classification projects
+- Nutrient deficiency identification
+- Pest and insect damage detection
+- Leaf, fruit, and crop image classification
+- Greenhouse and precision agriculture
+- Medical imaging
+- Industrial quality inspection
+- Wildlife monitoring
+- General computer vision and deep learning projects
 
 ---
 
